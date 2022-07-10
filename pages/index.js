@@ -9,7 +9,7 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
+      
       <body className='home'>
         <header className='header'>
           <div className="header__inner"><a aria-current="page" title="Kollosche" className="header__logo active" href="/">
